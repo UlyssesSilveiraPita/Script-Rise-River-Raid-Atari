@@ -6,10 +6,15 @@ A remake of the Atari classic River Raid, recreated in Unity.  Control your plan
 I developed a remake of River Raid (Atari) in Unity, bringing back the excitement of the classic, but with smooth physics, refined controls, and a dynamic fuel system.
 
 This project was part of my C# learning curve for games, exploring:
+<br>
 ✅ Player input (movement and shooting)
+<br>
 ✅ Infinite scrolling level mechanics
+<br>
 ✅ Real-time fuel system
+<br>
 ✅ Coroutines for death animations
+<br>
 ✅ HUD with fuel bar and score
 
 🔗 [[Game link on itch.io](https://ulyssespita.itch.io/rise-river-raid)]
