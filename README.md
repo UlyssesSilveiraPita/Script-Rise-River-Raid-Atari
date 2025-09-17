@@ -20,6 +20,6 @@ This project was part of my C# learning curve for games, exploring:
 🔗 [[Game link on itch.io](https://ulyssespita.itch.io/rise-river-raid)]
 
 This is just the beginning — I'm recreating other Atari classics as part of my Game Developer portfolio 🎮
-<img width="512" height="512" alt="31e-V9q9gIL" src="https://github.com/user-attachments/assets/d6d5be2b-a4cc-4eb7-9e21-211ffe5e0132" />
+<img width="1917" height="968" alt="31e-V9q9gIL3" src="https://github.com/user-attachments/assets/664046d9-9667-4819-82b2-ed5bf9e2fda5" />
 
 #Unity #CSharp #GameDev #Portfolio #RiverRaid
